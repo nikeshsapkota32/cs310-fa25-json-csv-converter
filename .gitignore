@@ -1,0 +1,44 @@
+<<<<<<< HEAD
+
+# Java compiled files
+*.class
+
+# NetBeans build folders
+nbproject/private/
+build/
+dist/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files (if any)
+*.iml
+.idea/
+=======
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/dist
+/nbproject
+build.xml
+manifest.mf
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+>>>>>>> 1d184d6c203f862f7b68dcb644e3f2b366c7dc2f
